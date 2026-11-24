@@ -1,6 +1,3 @@
-[tan-poetry.html.html](https://github.com/user-attachments/files/35307672/tan-poetry.html.html)
-# tang-poetry
-Tang Poetry Quiz
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
